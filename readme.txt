@@ -21,3 +21,9 @@ git status
 
 //查看不同
 git diff 
+
+//查看提交的历史日志
+git log
+git log --pretty=oneline //简化版
+
+//，在Git中，用HEAD表示当前版本
